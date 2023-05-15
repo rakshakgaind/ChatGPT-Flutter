@@ -23,14 +23,14 @@ ChatGPT is an intelligent conversational AI assistant that is available as an Fl
 
 # Preview:
 <p align="left">
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271168491.JPEG?raw=true" class="" alt="Splash Screen" width="200" height="400" />  
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271165926.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271164796.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271163358.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271160833.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271158709.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271156787.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
-<img src="https://github.com/rakshakgaind/ChatGPT-Android/blob/main/preview/1683271157667.JPEG?raw=true" alt="Splash Screen" width="200" height="400" /> 
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/1.JPEG?raw=true" class="" alt="Splash Screen" width="200" height="400" />  
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/2.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/3.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/4.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/5.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/6.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/7.JPEG?raw=true" alt="Splash Screen" width="200" height="400" />  
+<img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/8.JPEG?raw=true" alt="Splash Screen" width="200" height="400" /> 
 </p>
 
 # [APK Download](https://github.com/rakshakgaind/ChatGPT-Android/blob/main/app/build/outputs/apk/debug/app-debug.apk)
