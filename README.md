@@ -33,7 +33,6 @@ ChatGPT is an intelligent conversational AI assistant that is available as an Fl
 <img src="https://github.com/rakshakgaind/ChatGPT-Flutter/blob/main/preview/8.JPEG?raw=true" alt="Splash Screen" width="200" height="400" /> 
 </p>
 
-# [APK Download](https://github.com/rakshakgaind/ChatGPT-Android/blob/main/app/build/outputs/apk/debug/app-debug.apk)
 
 # Contribution
 
